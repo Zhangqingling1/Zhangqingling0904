@@ -31,13 +31,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/button1"
-        android:text="加速"/>
+        android:text="使圆环加速"/>
 
     <Button
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/button2"
-        android:text="减速"/>
+        android:text="使圆环减速"/>
 
 </RelativeLayout>
